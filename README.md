@@ -4,6 +4,7 @@
 Dockerでpostgres(postgis)を構築する際の手順を記載しています。
 
 ## ◆docker_naka.zip  
-ローカルに構築したDocker環境をそのままアップしてます。
+ローカルに構築したDocker環境をzip形式でアップしてます。
 
-## ◆
+## ◆docker_naka(sql,ymlのみ抜粋).zip  
+Docker環境でPostgres(PostGIS)をセットアップする際に必要なフォルダ構成、sqlファイル、ymlファイルをZIP形式でアップしてます。
